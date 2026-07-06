@@ -20,8 +20,8 @@
 
 ## 📬 Contact
 
-> **E-mail**: djarkgus010139@gmail.com <br>
-> **Portfolio**: 준비 중
+> > <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=white"/>: djarkgus010139@gmail.com <br>
+> <a href="https://app.notion.com/p/PopcornPick-38a35bb367d180f78891e8be45cc137f?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> <br>
 
 ---
 
