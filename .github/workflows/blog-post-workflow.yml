@@ -1,0 +1,23 @@
+name: Latest Blog Post Workflow
+
+on:
+  schedule:
+    # 매일 오전 9시자동 실행
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 수동 실행
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Pull latest Velog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://api.velog.io/rss/@gahyune"
+          max_post_count: 3
+          readme_path: "./README.md"
+          comment_tag_name: "BLOG-POST-LIST"
