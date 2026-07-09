@@ -21,7 +21,7 @@
 ## 🧩 Latest Programmers Solutions
 
 <!-- PROGRAMMERS-LIST:START -->
-- 아직 푼 문제가 없어요. 프로그래머스에서 문제를 풀면 여기에 표시돼요!
+- [0] 181952. 문자열 출력하기 ([바로가기](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181952.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0))
 <!-- PROGRAMMERS-LIST:END -->
 
 ---
