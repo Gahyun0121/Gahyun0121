@@ -1,0 +1,29 @@
+name: Latest Programmers Solutions Workflow
+
+on:
+  push:
+    paths:
+      - "프로그래머스/**"
+  schedule:
+    # 매일 오전 9시 자동 실행
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 수동 실행
+
+jobs:
+  update-readme-with-programmers:
+    name: Update README with latest Programmers solutions
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Update README with latest solved problems
+        run: python .github/scripts/update_programmers_readme.py
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: 최근 푼 프로그래머스 문제 업데이트"
+          file_pattern: README.md
