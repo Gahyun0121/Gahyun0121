@@ -9,9 +9,9 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FIFO vs LRU, 페이지 교체 알고리즘](https://velog.io/@gahyune/FIFO-vs-LRU-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%90%EC%B2%B4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [SK네트웍스 family 엔코아 AI 캠퍼스 사전컨설팅 후기](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-family-%EC%97%94%EC%BD%94%EC%95%84-AI-%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EC%82%AC%EC%A0%84%EC%BB%A8%EC%84%A4%ED%8C%85-%ED%9B%84%EA%B8%B0)
 - [Full Table Scan vs Index Scan](https://velog.io/@gahyune/Full-Table-Scan-vs-Index-Scan)
-- [get_db vs get_connection 리팩토링](https://velog.io/@gahyune/getdb-vs-getconnection-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [velog.io/@가현](https://velog.io/@gahyune/posts)
