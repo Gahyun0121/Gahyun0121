@@ -12,9 +12,9 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[엔코아 AI 캠퍼스]  데이터 분석 &amp; AI 머신러닝 캠프 - &lpar;0&rpar; OT](https://velog.io/@gahyune/%EC%97%94%EC%BD%94%EC%95%84-AI-%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-0-OT)
+- [[SK네트웍스 Family 엔코아AI캠퍼스] AI 머신러닝 캠프 1기_7월 3주차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-1%EA%B8%B07%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
+- [[코딩테스트 연습문제] 문자열 함수 - 대소문자 변환 &lpar;upper, lower, isupper, islower, swapcase, title, capitalize&rpar;](https://velog.io/@gahyune/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%95%A8%EC%88%98-%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90-%EB%B3%80%ED%99%98-upper-lower-isupper-islower-swapcase-title)
 - [[코딩테스트 연습문제] for vs while](https://velog.io/@gahyune/for-vs-while-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C)
-- [FIFO vs LRU, 페이지 교체 알고리즘](https://velog.io/@gahyune/FIFO-vs-LRU-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%90%EC%B2%B4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [velog.io/@가현](https://velog.io/@gahyune/posts)
