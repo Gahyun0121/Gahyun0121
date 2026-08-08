@@ -37,6 +37,16 @@ README_PATH = os.environ.get("README_PATH", "README.md").strip()
 TIL_PATH = os.environ.get("TIL_PATH", "TIL.md").strip()
 RECENT_COUNT = int(os.environ.get("RECENT_COUNT", "10") or 10)
 COLUMN_OVERRIDE = [c.strip() for c in os.environ.get("TIL_COLUMNS", "").split(",") if c.strip()]
+MAX_TITLE = int(os.environ.get("MAX_TITLE", "40") or 0)
+MAX_TAGS = int(os.environ.get("MAX_TAGS", "0") or 0)      # 0 이면 전부 표시
+TITLE_STRIP = os.environ.get("TITLE_STRIP", "")            # 제목에서 떼어낼 접두어
+
+# 표 머리글 바꿔 달기 — "노션속성이름=보여줄이름" 을 콤마로 나열
+HEADERS = dict(
+    pair.split("=", 1)
+    for pair in (p.strip() for p in os.environ.get("TIL_HEADERS", "").split(","))
+    if "=" in pair
+)
 
 
 # ---------------------------------------------------------------- 노션 API
@@ -180,8 +190,20 @@ def sort_key(page: dict, date_column: str | None) -> str:
     return page.get("created_time", "")
 
 
-def render_table(pages: list[dict], columns: list[str], title_column: str | None) -> str:
-    header = "| " + " | ".join(columns) + " |"
+def nowrap(text: str) -> str:
+    """줄바꿈될 자리를 없앱니다 — 하이픈은 점으로, 공백은 줄바꿈 없는 공백으로."""
+    return text.replace("-", ".").replace(" ", "&nbsp;")
+
+
+def render_table(
+    pages: list[dict],
+    columns: list[str],
+    title_column: str | None,
+    types: dict[str, str],
+    max_title: int = 0,
+    max_tags: int = 0,
+) -> str:
+    header = "| " + " | ".join(HEADERS.get(c, c) for c in columns) + " |"
     divider = "|" + "|".join("---" for _ in columns) + "|"
     lines = [header, divider]
 
@@ -189,9 +211,22 @@ def render_table(pages: list[dict], columns: list[str], title_column: str | None
         cells = []
         for name in columns:
             text = plain(page["properties"].get(name, {}))
+            kind = types.get(name, "")
+
             if name == title_column:
+                if TITLE_STRIP and text.startswith(TITLE_STRIP):
+                    text = text[len(TITLE_STRIP):].lstrip()
+                if max_title and len(text) > max_title:
+                    text = text[: max_title - 1].rstrip() + "…"
                 url = (page.get("url") or "").replace(" ", "%20")
                 text = f"[{cell(text)}]({url})"
+            elif kind == "multi_select" and max_tags:
+                tags = [o.get("name", "") for o in page["properties"][name].get("multi_select") or []]
+                shown = ", ".join(tags[:max_tags])
+                text = cell(shown + (f" +{len(tags) - max_tags}" if len(tags) > max_tags else ""))
+            elif kind in ("date", "created_time", "last_edited_time", "status", "select"):
+                # 날짜·상태는 폭이 좁으니 접히지 않게, 제목만 접히도록 둡니다
+                text = nowrap(cell(text))
             else:
                 text = cell(text)
             cells.append(text)
@@ -246,6 +281,7 @@ def main() -> int:
 
     columns = pick_columns(properties)
     title_column = title_key(properties)
+    types = {name: prop["type"] for name, prop in properties.items()}
     date_column = next((c for c in columns if properties[c]["type"] == "date"), None)
     print(f"[info] 표 컬럼: {columns}")
 
@@ -258,7 +294,7 @@ def main() -> int:
             "",
             f"노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **{len(pages)}건** · 최근 동기화 {stamp}",
             "",
-            render_table(pages, columns, title_column),
+            render_table(pages, columns, title_column, types),
             "",
         ])
         write_file(Path(TIL_PATH), body)
@@ -267,7 +303,7 @@ def main() -> int:
         recent = pages[:RECENT_COUNT]
         block = "\n".join([
             "",
-            render_table(recent, columns, title_column),
+            render_table(recent, columns, title_column, types, MAX_TITLE, MAX_TAGS),
             "",
             (f"👉 전체 {len(pages)}건 보기 → **[TIL.md]({TIL_PATH})**  ·  " if TIL_PATH else "")
             + f"_마지막 동기화 {stamp}_",
