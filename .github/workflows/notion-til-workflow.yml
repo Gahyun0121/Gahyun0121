@@ -37,6 +37,7 @@ jobs:
           MAX_TAGS: '3'                         # 키워드는 3개까지, 나머지는 +N
           TITLE_STRIP: 'Today I Learned -'      # 제목마다 반복되는 접두어 떼기
           TIL_HEADERS: '다중 선택=키워드'         # 표 머리글 바꿔 달기 (노션속성=보여줄이름)
+          TIL_FILTER: '상태=완료'                # 완료된 글만 표시 (주말 자동생성 빈 페이지 제외)
           # TIL_COLUMNS: "이름,날짜,다중 선택,상태"   # 자동 감지가 마음에 안 들면 직접 지정
         run: python .github/scripts/sync_notion_til.py
 

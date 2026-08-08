@@ -41,6 +41,11 @@ MAX_TITLE = int(os.environ.get("MAX_TITLE", "40") or 0)
 MAX_TAGS = int(os.environ.get("MAX_TAGS", "0") or 0)      # 0 이면 전부 표시
 TITLE_STRIP = os.environ.get("TITLE_STRIP", "")            # 제목에서 떼어낼 접두어
 
+# 특정 값인 항목만 표에 넣기 — "속성이름=값" 또는 "속성이름=값1|값2"
+FILTER_PROP, _, _values = os.environ.get("TIL_FILTER", "").partition("=")
+FILTER_PROP = FILTER_PROP.strip()
+FILTER_VALUES = {v.strip() for v in _values.split("|") if v.strip()}
+
 # 표 머리글 바꿔 달기 — "노션속성이름=보여줄이름" 을 콤마로 나열
 HEADERS = dict(
     pair.split("=", 1)
@@ -278,6 +283,19 @@ def main() -> int:
 
     properties = pages[0]["properties"]
     print("[info] 감지된 속성: " + ", ".join(f"{n}({p['type']})" for n, p in properties.items()))
+
+    if FILTER_PROP and FILTER_VALUES:
+        if FILTER_PROP not in properties:
+            print(f"[warn] '{FILTER_PROP}' 속성이 없어 필터를 건너뜁니다.")
+        else:
+            kept = [p for p in pages if plain(p["properties"].get(FILTER_PROP, {})) in FILTER_VALUES]
+            print(f"[info] {FILTER_PROP}={'|'.join(sorted(FILTER_VALUES))} 필터 → "
+                  f"{len(pages)}건 중 {len(kept)}건 남음")
+            pages = kept
+
+    if not pages:
+        print("[warn] 필터를 통과한 항목이 없습니다. 문서를 그대로 둡니다.")
+        return 0
 
     columns = pick_columns(properties)
     title_column = title_key(properties)
