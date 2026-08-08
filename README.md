@@ -25,15 +25,13 @@
 
 <!-- NOTION-TIL:START -->
 
-| 이름 | 날짜 | 다중 선택 | 상태 |
+| 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
-| [Today I Learned - RAG/청킹,색인](https://app.notion.com/p/Today-I-Learned-RAG-3b435bb367d181a1bde0d3474b3a0294) | 2026-08-07 | RAG, 벡터DB, 파싱, pandas | 완료 |
-| [Today I Learned - RAG/벡터DB](https://app.notion.com/p/Today-I-Learned-RAG-DB-3b335bb367d181919a78c95d6609dc8a) | 2026-08-06 | RAG, 벡터DB, 임베딩, pandas, OpenAI API | 완료 |
-| [Today I Learned - OpenAI API 활용](https://app.notion.com/p/Today-I-Learned-OpenAI-API-3b235bb367d181989de7f815eed0807d) | 2026-08-05 | OpenAI API, LLM, pydantic, API, 자료형 | 완료 |
-| [Today I Learned - 토픽 모델링](https://app.notion.com/p/Today-I-Learned-3b135bb367d1817aaf0adb96fb0ed1a2) | 2026-08-04 | 텍스트전처리, 토픽모델링, numpy, git, 자료형, 클러스터링, 파이썬문법 | 완료 |
-| [Today I Learned - 텍스트 벡터화 임베딩](https://app.notion.com/p/Today-I-Learned-3b035bb367d181499ce5e73b4c7c0afd) | 2026-08-03 | 임베딩, 유사도, 군집화, 멀티모달, HuggingFace, OpenAI API | 완료 |
+| [RAG/청킹,색인](https://app.notion.com/p/Today-I-Learned-RAG-3b435bb367d181a1bde0d3474b3a0294) | 2026.08.07 | RAG, 벡터DB, 파싱 +1 | 완료 |
+| [RAG/벡터DB](https://app.notion.com/p/Today-I-Learned-RAG-DB-3b335bb367d181919a78c95d6609dc8a) | 2026.08.06 | RAG, 벡터DB, 임베딩 +2 | 완료 |
+| [OpenAI API 활용](https://app.notion.com/p/Today-I-Learned-OpenAI-API-3b235bb367d181989de7f815eed0807d) | 2026.08.05 | OpenAI API, LLM, pydantic +2 | 완료 |
 
-👉 전체 8건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-08 17:10 KST_
+👉 전체 8건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-08 17:15 KST_
 
 <!-- NOTION-TIL:END -->
 
