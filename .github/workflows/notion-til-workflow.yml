@@ -1,0 +1,39 @@
+name: Notion TIL Workflow
+
+on:
+  schedule:
+    # 매일 오전 9시, 오후 9시 자동 실행 (KST)
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # 수동 실행
+  repository_dispatch:
+    types: [til-updated] # 노션에서 웹훅으로 즉시 트리거할 때
+
+jobs:
+  update-readme-with-til:
+    name: Update README with Notion TIL
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Update README with latest TIL
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: 3ac35bb3-67d1-8086-83c4-caa7afbb757f
+          MARKER_TAG: NOTION-TIL
+          README_PATH: README.md
+          TIL_PATH: TIL.md
+          RECENT_COUNT: '5'
+          # TIL_COLUMNS: "제목,날짜,태그,상태"   # 자동 감지 결과가 마음에 안 들면 직접 지정
+        run: python .github/scripts/sync_notion_til.py
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'docs: 노션 TIL 업데이트'
+          file_pattern: README.md TIL.md
