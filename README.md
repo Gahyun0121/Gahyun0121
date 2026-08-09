@@ -12,9 +12,9 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[SK네트웍스 Family 엔코아AI캠퍼스] AI 머신러닝 캠프 1기_8월 1주차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-1%EA%B8%B08%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [SK네트웍스 Family AI 캠프 MLE1기 1개월차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-AI-%EC%BA%A0%ED%94%84-MLE1%EA%B8%B0-1%EA%B0%9C%EC%9B%94%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [[SK네트웍스 Family 엔코아AI캠퍼스] AI 머신러닝 캠프 1기_7월 5주차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-1%EA%B8%B07%EC%9B%94-5%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
-- [stats.iqr, pearsonr 반환값: 숫자? 묶음?](https://velog.io/@gahyune/stats.iqr-pearsonr-%EB%B0%98%ED%99%98%EA%B0%92-%EC%88%AB%EC%9E%90-%EB%AC%B6%EC%9D%8C)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [velog.io/@가현](https://velog.io/@gahyune/posts)
