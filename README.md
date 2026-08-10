@@ -31,7 +31,7 @@
 | [RAG/벡터DB](https://app.notion.com/p/Today-I-Learned-RAG-DB-3b335bb367d181919a78c95d6609dc8a) | 2026.08.06 | RAG, 벡터DB, 임베딩 +2 | 완료 |
 | [OpenAI API 활용](https://app.notion.com/p/Today-I-Learned-OpenAI-API-3b235bb367d181989de7f815eed0807d) | 2026.08.05 | OpenAI API, LLM, pydantic +2 | 완료 |
 
-👉 전체 8건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-10 09:40 KST_
+👉 전체 8건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-10 21:36 KST_
 
 <!-- NOTION-TIL:END -->
 
