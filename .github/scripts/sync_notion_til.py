@@ -284,6 +284,15 @@ def main() -> int:
     properties = pages[0]["properties"]
     print("[info] 감지된 속성: " + ", ".join(f"{n}({p['type']})" for n, p in properties.items()))
 
+    # 무엇이 읽혔는지 그대로 보여줍니다 — 안 올라오는 글을 추적할 때 씁니다
+    title_name = title_key(properties)
+    print(f"[info] 노션에서 읽은 항목 {len(pages)}건:")
+    for page in sorted(pages, key=lambda p: p.get("created_time", ""), reverse=True):
+        made = (page.get("created_time") or "")[:10]
+        name = plain(page["properties"].get(title_name, {})) if title_name else "?"
+        state = plain(page["properties"].get(FILTER_PROP, {})) if FILTER_PROP else ""
+        print(f"       생성 {made} | {FILTER_PROP}={state or '(빈칸)'} | {name}")
+
     if FILTER_PROP and FILTER_VALUES:
         if FILTER_PROP not in properties:
             print(f"[warn] '{FILTER_PROP}' 속성이 없어 필터를 건너뜁니다.")
