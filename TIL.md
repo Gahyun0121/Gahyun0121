@@ -1,9 +1,10 @@
 # TIL
 
-노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **9건** · 최근 동기화 2026-08-11 09:37 KST
+노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **10건** · 최근 동기화 2026-08-11 22:45 KST
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [Langchain](https://app.notion.com/p/Today-I-Learned-Langchain-3b835bb367d1811a8698c7241564ec53) | 2026.08.11 | RAG, LangChain, PostgreSQL | 완료 |
 | [SQL](https://app.notion.com/p/Today-I-Learned-SQL-3b735bb367d1812fb627eaa550502be1) | 2026.08.10 | SQL, PostgreSQL, 벡터DB | 완료 |
 | [RAG/청킹,색인](https://app.notion.com/p/Today-I-Learned-RAG-3b435bb367d181a1bde0d3474b3a0294) | 2026.08.07 | RAG, 벡터DB, 파싱, pandas | 완료 |
 | [RAG/벡터DB](https://app.notion.com/p/Today-I-Learned-RAG-DB-3b335bb367d181919a78c95d6609dc8a) | 2026.08.06 | RAG, 벡터DB, 임베딩, pandas, OpenAI API | 완료 |
