@@ -27,11 +27,11 @@
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [구조화 출력](https://app.notion.com/p/Today-I-Learned-3b935bb367d181c79aabf96770380026) | 2026.08.12 | LangChain, Agent, RAG | 완료 |
 | [Langchain](https://app.notion.com/p/Today-I-Learned-Langchain-3b835bb367d1811a8698c7241564ec53) | 2026.08.11 | RAG, LangChain, PostgreSQL | 완료 |
 | [SQL](https://app.notion.com/p/Today-I-Learned-SQL-3b735bb367d1812fb627eaa550502be1) | 2026.08.10 | SQL, PostgreSQL, 벡터DB | 완료 |
-| [RAG/청킹,색인](https://app.notion.com/p/Today-I-Learned-RAG-3b435bb367d181a1bde0d3474b3a0294) | 2026.08.07 | RAG, 벡터DB, 파싱 +1 | 완료 |
 
-👉 전체 10건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-12 11:47 KST_
+👉 전체 11건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-12 22:50 KST_
 
 <!-- NOTION-TIL:END -->
 
