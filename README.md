@@ -31,7 +31,7 @@
 | [구조화 출력](https://app.notion.com/p/Today-I-Learned-3b935bb367d181c79aabf96770380026) | 2026.08.12 | LangChain, Agent, RAG | 완료 |
 | [Langchain](https://app.notion.com/p/Today-I-Learned-Langchain-3b835bb367d1811a8698c7241564ec53) | 2026.08.11 | RAG, LangChain, PostgreSQL | 완료 |
 
-👉 전체 12건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-14 11:48 KST_
+👉 전체 12건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-14 22:45 KST_
 
 <!-- NOTION-TIL:END -->
 
