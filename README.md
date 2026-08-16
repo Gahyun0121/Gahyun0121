@@ -12,9 +12,9 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[SK네트웍스 Family 엔코아AI캠퍼스] AI 머신러닝 캠프 1기_8월 2주차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-1%EA%B8%B08%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [pydantic 모델로 구조화된 출력 받기 - create가 아닌 parse](https://velog.io/@gahyune/pydantic-%EB%AA%A8%EB%8D%B8%EB%A1%9C-%EA%B5%AC%EC%A1%B0%ED%99%94%EB%90%9C-%EC%B6%9C%EB%A0%A5-%EB%B0%9B%EA%B8%B0-create%EA%B0%80-%EC%95%84%EB%8B%8C-parse)
 - [[SK네트웍스 Family 엔코아AI캠퍼스] AI 머신러닝 캠프 1기_8월 1주차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-1%EA%B8%B08%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
-- [SK네트웍스 Family AI 캠프 MLE1기 1개월차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-AI-%EC%BA%A0%ED%94%84-MLE1%EA%B8%B0-1%EA%B0%9C%EC%9B%94%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [velog.io/@가현](https://velog.io/@gahyune/posts)
