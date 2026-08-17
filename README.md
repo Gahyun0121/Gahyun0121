@@ -31,7 +31,7 @@
 | [검색 품질 평가 지표](https://app.notion.com/p/Today-I-Learned-3ba35bb367d181219762f8c5a8e939e9) | 2026.08.13 | RAG, LLM, LangChain | 완료 |
 | [구조화 출력](https://app.notion.com/p/Today-I-Learned-3b935bb367d181c79aabf96770380026) | 2026.08.12 | LangChain, Agent, RAG | 완료 |
 
-👉 전체 13건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-17 10:56 KST_
+👉 전체 13건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-17 22:07 KST_
 
 <!-- NOTION-TIL:END -->
 
