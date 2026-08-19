@@ -1,9 +1,10 @@
 # TIL
 
-노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **13건** · 최근 동기화 2026-08-18 22:10 KST
+노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **14건** · 최근 동기화 2026-08-19 10:54 KST
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [미들웨어/Langfuse](https://app.notion.com/p/Today-I-Learned-Langfuse-3be35bb367d181228f10f8a3d9297039) | 2026.08.18 | LangChain, Agent, MCP, SQL | 완료 |
 | [비동기(async)](https://app.notion.com/p/Today-I-Learned-async-3bb35bb367d18107aaefcd6d0ccd5e9e) | 2026.08.14 | LangChain, Agent, MCP, 비동기 | 완료 |
 | [검색 품질 평가 지표](https://app.notion.com/p/Today-I-Learned-3ba35bb367d181219762f8c5a8e939e9) | 2026.08.13 | RAG, LLM, LangChain | 완료 |
 | [구조화 출력](https://app.notion.com/p/Today-I-Learned-3b935bb367d181c79aabf96770380026) | 2026.08.12 | LangChain, Agent, RAG | 완료 |
