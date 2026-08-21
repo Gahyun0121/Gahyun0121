@@ -31,7 +31,7 @@
 | [비동기(async)](https://app.notion.com/p/Today-I-Learned-async-3bb35bb367d18107aaefcd6d0ccd5e9e) | 2026.08.14 | LangChain, Agent, MCP +1 | 완료 |
 | [검색 품질 평가 지표](https://app.notion.com/p/Today-I-Learned-3ba35bb367d181219762f8c5a8e939e9) | 2026.08.13 | RAG, LLM, LangChain | 완료 |
 
-👉 전체 14건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-20 22:13 KST_
+👉 전체 14건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-21 10:59 KST_
 
 <!-- NOTION-TIL:END -->
 
