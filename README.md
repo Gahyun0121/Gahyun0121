@@ -27,11 +27,11 @@
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [Streamlit](https://app.notion.com/p/Today-I-Learned-Streamlit-3c035bb367d181efb91de1f150633954) | 2026.08.19 | RAG, Streamlit, 제너레이터 | 완료 |
 | [미들웨어/Langfuse](https://app.notion.com/p/Today-I-Learned-Langfuse-3be35bb367d181228f10f8a3d9297039) | 2026.08.18 | LangChain, Agent, MCP +1 | 완료 |
 | [비동기(async)](https://app.notion.com/p/Today-I-Learned-async-3bb35bb367d18107aaefcd6d0ccd5e9e) | 2026.08.14 | LangChain, Agent, MCP +1 | 완료 |
-| [검색 품질 평가 지표](https://app.notion.com/p/Today-I-Learned-3ba35bb367d181219762f8c5a8e939e9) | 2026.08.13 | RAG, LLM, LangChain | 완료 |
 
-👉 전체 14건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-22 22:02 KST_
+👉 전체 15건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-23 11:01 KST_
 
 <!-- NOTION-TIL:END -->
 
