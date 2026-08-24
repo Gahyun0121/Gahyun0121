@@ -31,7 +31,7 @@
 | [미들웨어/Langfuse](https://app.notion.com/p/Today-I-Learned-Langfuse-3be35bb367d181228f10f8a3d9297039) | 2026.08.18 | LangChain, Agent, MCP +1 | 완료 |
 | [비동기(async)](https://app.notion.com/p/Today-I-Learned-async-3bb35bb367d18107aaefcd6d0ccd5e9e) | 2026.08.14 | LangChain, Agent, MCP +1 | 완료 |
 
-👉 전체 15건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-23 22:03 KST_
+👉 전체 15건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-24 10:59 KST_
 
 <!-- NOTION-TIL:END -->
 
