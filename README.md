@@ -40,11 +40,11 @@
 ## 🧩 Latest Programmers Solutions
 
 <!-- PROGRAMMERS-LIST:START -->
+- [L0] 002. 숫자 비교하기 ([바로가기](programmers/L0_%EA%B8%B0%EC%B4%88%EC%9E%85%EB%AC%B8/%EC%9E%85%EB%AC%B8/002_%EC%88%AB%EC%9E%90_%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.py))
 - [L0] 001. 두 수의 차 구하기 ([바로가기](programmers/L0_%EA%B8%B0%EC%B4%88%EC%9E%85%EB%AC%B8/%EC%9E%85%EB%AC%B8/001_%EB%91%90_%EC%88%98%EC%9D%98_%EC%B0%A8_%EA%B5%AC%ED%95%98%EA%B8%B0.py))
 - [L0] 021. 배열 자르기 ([바로가기](programmers/L0_%EA%B8%B0%EC%B4%88%EC%9E%85%EB%AC%B8/%EC%9E%85%EB%AC%B8/021_%EB%B0%B0%EC%97%B4_%EC%9E%90%EB%A5%B4%EA%B8%B0.py))
 - [L0] 020. 삼각형의 완성조건 1 ([바로가기](programmers/L0_%EA%B8%B0%EC%B4%88%EC%9E%85%EB%AC%B8/%EC%9E%85%EB%AC%B8/020_%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98_%EC%99%84%EC%84%B1%EC%A1%B0%EA%B1%B4__1_.py))
 - [L0] 019. 머쓱이보다 키 큰 사람 ([바로가기](programmers/L0_%EA%B8%B0%EC%B4%88%EC%9E%85%EB%AC%B8/%EC%9E%85%EB%AC%B8/019_%EB%A8%B8%EC%93%B1%EC%9D%B4%EB%B3%B4%EB%8B%A4_%ED%82%A4_%ED%81%B0_%EC%82%AC%EB%9E%8C.py))
-- [L0] 018. 최댓값 만들기 1 ([바로가기](programmers/L0_%EA%B8%B0%EC%B4%88%EC%9E%85%EB%AC%B8/%EC%9E%85%EB%AC%B8/018_%EC%B5%9C%EB%8C%93%EA%B0%92_%EB%A7%8C%EB%93%A4%EA%B8%B0_1_.py))
 <!-- PROGRAMMERS-LIST:END -->
 
 ---
