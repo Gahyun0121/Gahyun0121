@@ -31,7 +31,7 @@
 | [Streamlit](https://app.notion.com/p/Today-I-Learned-Streamlit-3c035bb367d181efb91de1f150633954) | 2026.08.19 | RAG, Streamlit, 제너레이터 | 완료 |
 | [미들웨어/Langfuse](https://app.notion.com/p/Today-I-Learned-Langfuse-3be35bb367d181228f10f8a3d9297039) | 2026.08.18 | LangChain, Agent, MCP +1 | 완료 |
 
-👉 전체 16건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-25 22:13 KST_
+👉 전체 16건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-26 11:00 KST_
 
 <!-- NOTION-TIL:END -->
 
