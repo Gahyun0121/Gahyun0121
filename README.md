@@ -27,11 +27,11 @@
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [Neo4j](https://app.notion.com/p/Today-I-Learned-Neo4j-3c735bb367d181c0ab9bfff4f3e298b6) | 2026.08.26 | 그래프DB, Neo4j, Cypher | 완료 |
 | [그래프DB](https://app.notion.com/p/Today-I-Learned-DB-3c635bb367d1810db905faab644afe9c) | 2026.08.25 | 그래프DB, Neo4j, SPARQL +1 | 완료 |
 | [Streamlit](https://app.notion.com/p/Today-I-Learned-Streamlit-3c035bb367d181efb91de1f150633954) | 2026.08.19 | RAG, Streamlit, 제너레이터 | 완료 |
-| [미들웨어/Langfuse](https://app.notion.com/p/Today-I-Learned-Langfuse-3be35bb367d181228f10f8a3d9297039) | 2026.08.18 | LangChain, Agent, MCP +1 | 완료 |
 
-👉 전체 16건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-26 11:00 KST_
+👉 전체 17건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-26 22:18 KST_
 
 <!-- NOTION-TIL:END -->
 
