@@ -40,11 +40,11 @@
 ## 🧩 Latest Programmers Solutions
 
 <!-- PROGRAMMERS-LIST:START -->
+- [L0] 004. 두 수의 나눗셈 ([바로가기](programmers/L0_%EA%B8%B0%EC%B4%88%EC%9E%85%EB%AC%B8/%EC%9E%85%EB%AC%B8/004_%EB%91%90_%EC%88%98%EC%9D%98_%EB%82%98%EB%88%97%EC%85%88.py))
 - [L0] 003. 나이 출력 ([바로가기](programmers/L0_%EA%B8%B0%EC%B4%88%EC%9E%85%EB%AC%B8/%EC%9E%85%EB%AC%B8/003_%EB%82%98%EC%9D%B4_%EC%B6%9C%EB%A0%A5.py))
 - [L0] 002. 숫자 비교하기 ([바로가기](programmers/L0_%EA%B8%B0%EC%B4%88%EC%9E%85%EB%AC%B8/%EC%9E%85%EB%AC%B8/002_%EC%88%AB%EC%9E%90_%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.py))
 - [L0] 001. 두 수의 차 구하기 ([바로가기](programmers/L0_%EA%B8%B0%EC%B4%88%EC%9E%85%EB%AC%B8/%EC%9E%85%EB%AC%B8/001_%EB%91%90_%EC%88%98%EC%9D%98_%EC%B0%A8_%EA%B5%AC%ED%95%98%EA%B8%B0.py))
 - [L0] 021. 배열 자르기 ([바로가기](programmers/L0_%EA%B8%B0%EC%B4%88%EC%9E%85%EB%AC%B8/%EC%9E%85%EB%AC%B8/021_%EB%B0%B0%EC%97%B4_%EC%9E%90%EB%A5%B4%EA%B8%B0.py))
-- [L0] 020. 삼각형의 완성조건 1 ([바로가기](programmers/L0_%EA%B8%B0%EC%B4%88%EC%9E%85%EB%AC%B8/%EC%9E%85%EB%AC%B8/020_%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98_%EC%99%84%EC%84%B1%EC%A1%B0%EA%B1%B4__1_.py))
 <!-- PROGRAMMERS-LIST:END -->
 
 ---
