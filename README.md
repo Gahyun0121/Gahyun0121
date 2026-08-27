@@ -31,7 +31,7 @@
 | [그래프DB](https://app.notion.com/p/Today-I-Learned-DB-3c635bb367d1810db905faab644afe9c) | 2026.08.25 | 그래프DB, Neo4j, SPARQL +1 | 완료 |
 | [Streamlit](https://app.notion.com/p/Today-I-Learned-Streamlit-3c035bb367d181efb91de1f150633954) | 2026.08.19 | RAG, Streamlit, 제너레이터 | 완료 |
 
-👉 전체 17건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-26 22:18 KST_
+👉 전체 17건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-27 18:53 KST_
 
 <!-- NOTION-TIL:END -->
 
