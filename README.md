@@ -31,7 +31,7 @@
 | [Neo4j](https://app.notion.com/p/Today-I-Learned-Neo4j-3c735bb367d181c0ab9bfff4f3e298b6) | 2026.08.26 | 그래프DB, Neo4j, Cypher | 완료 |
 | [그래프DB](https://app.notion.com/p/Today-I-Learned-DB-3c635bb367d1810db905faab644afe9c) | 2026.08.25 | 그래프DB, Neo4j, SPARQL +1 | 완료 |
 
-👉 전체 18건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-28 07:17 KST_
+👉 전체 18건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-08-28 20:27 KST_
 
 <!-- NOTION-TIL:END -->
 
