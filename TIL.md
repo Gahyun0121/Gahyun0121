@@ -1,9 +1,10 @@
 # TIL
 
-노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **18건** · 최근 동기화 2026-08-29 16:07 KST
+노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **19건** · 최근 동기화 2026-08-30 01:45 KST
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [Cypher 심화](https://app.notion.com/p/Today-I-Learned-Cypher-3c935bb367d1810581fdc499aba2f91a) | 2026.08.28 | 그래프DB, Neo4j, Cypher | 완료 |
 | [Cypher](https://app.notion.com/p/Today-I-Learned-Cypher-3c835bb367d18132bc9cfb5107e3d8ae) | 2026.08.27 | 그래프DB, Neo4j, Cypher | 완료 |
 | [Neo4j](https://app.notion.com/p/Today-I-Learned-Neo4j-3c735bb367d181c0ab9bfff4f3e298b6) | 2026.08.26 | 그래프DB, Neo4j, Cypher | 완료 |
 | [그래프DB](https://app.notion.com/p/Today-I-Learned-DB-3c635bb367d1810db905faab644afe9c) | 2026.08.25 | 그래프DB, Neo4j, SPARQL, Python | 완료 |
