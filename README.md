@@ -32,7 +32,7 @@
 | [Cypher 심화 (1)](https://app.notion.com/p/Today-I-Learned-Cypher-1-3c935bb367d1810581fdc499aba2f91a) | 2026.08.28 | 그래프DB, Neo4j, Cypher | 완료 |
 | [Cypher](https://app.notion.com/p/Today-I-Learned-Cypher-3c835bb367d18132bc9cfb5107e3d8ae) | 2026.08.27 | 그래프DB, Neo4j, Cypher | 완료 |
 
-👉 전체 20건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-01 04:08 KST_
+👉 전체 20건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-01 14:14 KST_
 
 <!-- NOTION-TIL:END -->
 
