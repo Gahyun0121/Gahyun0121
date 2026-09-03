@@ -28,11 +28,11 @@
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [Cypher 심화 (5)](https://app.notion.com/p/Today-I-Learned-Cypher-5-3cf35bb367d1819a9edcfa237706e920) | 2026.09.03 | — | 완료 |
 | [Cypher 심화 (4)](https://app.notion.com/p/Today-I-Learned-Cypher-4-3ce35bb367d1817d8632c3ad6df915fa) | 2026.09.02 | — | 완료 |
 | [Cypher 심화 (3)](https://app.notion.com/p/Today-I-Learned-Cypher-3-3cd35bb367d181e986b7dbc29136d00b) | 2026.09.01 | — | 완료 |
-| [Cypher 심화 (2)](https://app.notion.com/p/Today-I-Learned-Cypher-2-3cc35bb367d1817981f9c04da31bdd4e) | 2026.08.31 | — | 완료 |
 
-👉 전체 22건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-03 13:36 KST_
+👉 전체 23건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-04 01:28 KST_
 
 <!-- NOTION-TIL:END -->
 
