@@ -28,11 +28,11 @@
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
-| [Cypher 심화 (5)](https://app.notion.com/p/Today-I-Learned-Cypher-5-3cf35bb367d1819a9edcfa237706e920) | 2026.09.03 | — | 완료 |
-| [Cypher 심화 (4)](https://app.notion.com/p/Today-I-Learned-Cypher-4-3ce35bb367d1817d8632c3ad6df915fa) | 2026.09.02 | — | 완료 |
-| [Cypher 심화 (3)](https://app.notion.com/p/Today-I-Learned-Cypher-3-3cd35bb367d181e986b7dbc29136d00b) | 2026.09.01 | — | 완료 |
+| [Leiden/최단경로](https://app.notion.com/p/Today-I-Learned-Leiden-3cf35bb367d1819a9edcfa237706e920) | 2026.09.03 | 그래프DB, GDS, 커뮤니티탐지 +1 | 완료 |
+| [GDS/PageRank](https://app.notion.com/p/Today-I-Learned-GDS-PageRank-3ce35bb367d1817d8632c3ad6df915fa) | 2026.09.02 | 그래프DB, Neo4j, GDS +1 | 완료 |
+| [APOC](https://app.notion.com/p/Today-I-Learned-APOC-3cd35bb367d181e986b7dbc29136d00b) | 2026.09.01 | 그래프DB, Neo4j, Cypher +1 | 완료 |
 
-👉 전체 23건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-04 13:37 KST_
+👉 전체 23건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-05 01:24 KST_
 
 <!-- NOTION-TIL:END -->
 
