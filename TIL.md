@@ -1,9 +1,10 @@
 # TIL
 
-노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **23건** · 최근 동기화 2026-09-05 13:34 KST
+노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **24건** · 최근 동기화 2026-09-06 00:17 KST
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [GraphRAG Retriever](https://app.notion.com/p/Today-I-Learned-GraphRAG-Retriever-3d035bb367d181a1b210cf57ac30fb06) | 2026.09.04 | 그래프DB, GraphRAG, 벡터DB, Neo4j | 완료 |
 | [Leiden/최단경로](https://app.notion.com/p/Today-I-Learned-Leiden-3cf35bb367d1819a9edcfa237706e920) | 2026.09.03 | 그래프DB, GDS, 커뮤니티탐지, Python | 완료 |
 | [GDS/PageRank](https://app.notion.com/p/Today-I-Learned-GDS-PageRank-3ce35bb367d1817d8632c3ad6df915fa) | 2026.09.02 | 그래프DB, Neo4j, GDS, PageRank | 완료 |
 | [APOC](https://app.notion.com/p/Today-I-Learned-APOC-3cd35bb367d181e986b7dbc29136d00b) | 2026.09.01 | 그래프DB, Neo4j, Cypher, APOC | 완료 |
