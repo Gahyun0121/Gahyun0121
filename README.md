@@ -32,7 +32,7 @@
 | [GDS/PageRank](https://app.notion.com/p/Today-I-Learned-GDS-PageRank-3ce35bb367d1817d8632c3ad6df915fa) | 2026.09.02 | 그래프DB, Neo4j, GDS +1 | 완료 |
 | [APOC](https://app.notion.com/p/Today-I-Learned-APOC-3cd35bb367d181e986b7dbc29136d00b) | 2026.09.01 | 그래프DB, Neo4j, Cypher +1 | 완료 |
 
-👉 전체 23건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-05 01:24 KST_
+👉 전체 23건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-05 13:34 KST_
 
 <!-- NOTION-TIL:END -->
 
