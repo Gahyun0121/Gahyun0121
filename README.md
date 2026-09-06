@@ -32,7 +32,7 @@
 | [Leiden/최단경로](https://app.notion.com/p/Today-I-Learned-Leiden-3cf35bb367d1819a9edcfa237706e920) | 2026.09.03 | 그래프DB, GDS, 커뮤니티탐지 +1 | 완료 |
 | [GDS/PageRank](https://app.notion.com/p/Today-I-Learned-GDS-PageRank-3ce35bb367d1817d8632c3ad6df915fa) | 2026.09.02 | 그래프DB, Neo4j, GDS +1 | 완료 |
 
-👉 전체 24건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-06 13:43 KST_
+👉 전체 24건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-07 00:30 KST_
 
 <!-- NOTION-TIL:END -->
 
