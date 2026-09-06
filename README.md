@@ -12,10 +12,10 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[SK네트웍스 Family 엔코아AI캠퍼스] AI 머신러닝 캠프 1기_9월 1주차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-1%EA%B8%B09%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
+- [SK네트웍스 Family AI 캠프 MLE1기 2개월차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-AI-%EC%BA%A0%ED%94%84-MLE1%EA%B8%B0-2%EA%B0%9C%EC%9B%94%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [Recall@5가 1.0이면 잘 만든 게 아니다
 — 트립가드&lpar;TripGuard&rpar; RAG 평가셋 재설계](https://velog.io/@gahyune/Recall5%EA%B0%80-1.0%EC%9D%B4%EB%A9%B4-%EC%9E%98-%EB%A7%8C%EB%93%A0-%EA%B2%8C-%EC%95%84%EB%8B%88%EB%8B%A4-%ED%8A%B8%EB%A6%BD%EA%B0%80%EB%93%9CTripGuard-RAG-%ED%8F%89%EA%B0%80%EC%85%8B-%EC%9E%AC%EC%84%A4%EA%B3%84)
-- [[SK네트웍스 Family 엔코아AI캠퍼스] AI 머신러닝 캠프 1기_8월 4주차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-1%EA%B8%B08%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
-- [[SK네트웍스 Family 엔코아AI캠퍼스] AI 머신러닝 캠프 1기_8월 3주차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-1%EA%B8%B08%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [velog.io/@가현](https://velog.io/@gahyune/posts)
