@@ -32,7 +32,7 @@
 | [GraphRAG Retriever](https://app.notion.com/p/Today-I-Learned-GraphRAG-Retriever-3d035bb367d181a1b210cf57ac30fb06) | 2026.09.04 | 그래프DB, GraphRAG, 벡터DB +1 | 완료 |
 | [Leiden/최단경로](https://app.notion.com/p/Today-I-Learned-Leiden-3cf35bb367d1819a9edcfa237706e920) | 2026.09.03 | 그래프DB, GDS, 커뮤니티탐지 +1 | 완료 |
 
-👉 전체 25건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-08 02:45 KST_
+👉 전체 25건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-08 13:41 KST_
 
 <!-- NOTION-TIL:END -->
 
