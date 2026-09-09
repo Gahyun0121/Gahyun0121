@@ -32,7 +32,7 @@
 | [IE/NER](https://app.notion.com/p/Today-I-Learned-IE-NER-3d235bb367d181bf9a97e085bf0c908c) | 2026.09.07 | NLP, NER, pydantic | 완료 |
 | [GraphRAG Retriever](https://app.notion.com/p/Today-I-Learned-GraphRAG-Retriever-3d035bb367d181a1b210cf57ac30fb06) | 2026.09.04 | 그래프DB, GraphRAG, 벡터DB +1 | 완료 |
 
-👉 전체 26건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-09 01:40 KST_
+👉 전체 26건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-09 13:46 KST_
 
 <!-- NOTION-TIL:END -->
 
