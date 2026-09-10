@@ -32,7 +32,7 @@
 | [Triple/온톨로지](https://app.notion.com/p/Today-I-Learned-Triple-3d435bb367d181b5823dc19236fa7e1b) | 2026.09.08 | NLP, 지식그래프, pydantic +1 | 완료 |
 | [IE/NER](https://app.notion.com/p/Today-I-Learned-IE-NER-3d235bb367d181bf9a97e085bf0c908c) | 2026.09.07 | NLP, NER, pydantic | 완료 |
 
-👉 전체 27건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-10 13:47 KST_
+👉 전체 27건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-11 01:27 KST_
 
 <!-- NOTION-TIL:END -->
 
