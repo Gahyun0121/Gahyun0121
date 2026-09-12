@@ -32,7 +32,7 @@
 | [엔티티 정규화](https://app.notion.com/p/Today-I-Learned-3d635bb367d181f198cbcfe587276ba6) | 2026.09.10 | NLP, 엔티티정규화, 지식그래프 | 완료 |
 | [추출 품질 지표](https://app.notion.com/p/Today-I-Learned-3d535bb367d181f6aef2eccc3d7f099e) | 2026.09.09 | NLP, 관계추출, 평가지표 +1 | 완료 |
 
-👉 전체 29건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-12 13:39 KST_
+👉 전체 29건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-13 00:34 KST_
 
 <!-- NOTION-TIL:END -->
 
