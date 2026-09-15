@@ -31,7 +31,7 @@
 | [추출 자동화](https://app.notion.com/p/Today-I-Learned-3d735bb367d181dbbe3bf432d50f1b85) | 2026.09.11 | NLP, GraphRAG, 지식그래프 +1 | 완료 |
 | [엔티티 정규화](https://app.notion.com/p/Today-I-Learned-3d635bb367d181f198cbcfe587276ba6) | 2026.09.10 | NLP, 엔티티정규화, 지식그래프 | 완료 |
 
-👉 전체 30건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-15 03:05 KST_
+👉 전체 30건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-15 13:57 KST_
 
 <!-- NOTION-TIL:END -->
 
