@@ -1,10 +1,11 @@
 # TIL
 
-노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **32건** · 최근 동기화 2026-09-22 14:01 KST
+노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **33건** · 최근 동기화 2026-09-23 01:59 KST
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
-| [RAPTOR](https://app.notion.com/p/Today-I-Learned-RAPTOR-3e135bb367d1818d868fe60fe47c508c) | 2026.09.21 | RAG, NLP | 완료 |
+| [하이브리드 검색](https://app.notion.com/p/Today-I-Learned-3e235bb367d181ac9226e845059a6f6d) | 2026.09.22 | RAG, NLP, 평가지표, BM25, 질의변환 | 완료 |
+| [RAPTOR](https://app.notion.com/p/Today-I-Learned-RAPTOR-3e135bb367d1818d868fe60fe47c508c) | 2026.09.21 | RAG, 청킹, RAPTOR, 문맥확장 | 완료 |
 | [Text2Cypher](https://app.notion.com/p/Today-I-Learned-Text2Cypher-3db35bb367d1811596cad2406dd55670) | 2026.09.15 | GraphRAG, NLP, Cypher, 평가지표 | 완료 |
 | [증분 적재](https://app.notion.com/p/Today-I-Learned-3d935bb367d18139ad4dc781a9b3d427) | 2026.09.14 | NLP, GraphRAG, 지식그래프, Cypher | 완료 |
 | [추출 자동화](https://app.notion.com/p/Today-I-Learned-3d735bb367d181dbbe3bf432d50f1b85) | 2026.09.11 | NLP, GraphRAG, 지식그래프, 평가지표 | 완료 |
