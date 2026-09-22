@@ -31,7 +31,7 @@
 | [Text2Cypher](https://app.notion.com/p/Today-I-Learned-Text2Cypher-3db35bb367d1811596cad2406dd55670) | 2026.09.15 | GraphRAG, NLP, Cypher +1 | 완료 |
 | [증분 적재](https://app.notion.com/p/Today-I-Learned-3d935bb367d18139ad4dc781a9b3d427) | 2026.09.14 | NLP, GraphRAG, 지식그래프 +1 | 완료 |
 
-👉 전체 32건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-22 03:13 KST_
+👉 전체 32건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-22 14:01 KST_
 
 <!-- NOTION-TIL:END -->
 
