@@ -31,7 +31,7 @@
 | [RAPTOR](https://app.notion.com/p/Today-I-Learned-RAPTOR-3e135bb367d1818d868fe60fe47c508c) | 2026.09.21 | RAG, 청킹, RAPTOR +1 | 완료 |
 | [Text2Cypher](https://app.notion.com/p/Today-I-Learned-Text2Cypher-3db35bb367d1811596cad2406dd55670) | 2026.09.15 | GraphRAG, NLP, Cypher +1 | 완료 |
 
-👉 전체 33건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-23 01:59 KST_
+👉 전체 33건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-23 13:48 KST_
 
 <!-- NOTION-TIL:END -->
 
