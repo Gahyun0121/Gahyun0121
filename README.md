@@ -12,9 +12,9 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[SK네트웍스 Family 엔코아AI캠퍼스] AI 머신러닝 캠프 1기_9월 4주차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-1%EA%B8%B09%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [[SK네트웍스 Family 엔코아AI캠퍼스] AI 머신러닝 캠프 1기_9월 3주차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-1%EA%B8%B09%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [[SK네트웍스 Family 엔코아AI캠퍼스] AI 머신러닝 캠프 1기_9월 2주차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-1%EA%B8%B09%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
-- [[SK네트웍스 Family 엔코아AI캠퍼스] AI 머신러닝 캠프 1기_9월 1주차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-1%EA%B8%B09%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [velog.io/@가현](https://velog.io/@gahyune/posts)
