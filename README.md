@@ -27,11 +27,11 @@
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [LangGraph](https://app.notion.com/p/Today-I-Learned-LangGraph-3e935bb367d181749190d45efcd9c735) | 2026.09.29 | LangGraph, Agent, 하이브리드검색 | 완료 |
 | [VectorCypherRetriever](https://app.notion.com/p/Today-I-Learned-VectorCypherRetriever-3e835bb367d18189b7b8c2abf69938be) | 2026.09.28 | GraphRAG, 하이브리드검색, Text2Cypher | 완료 |
 | [Cross-Encoder](https://app.notion.com/p/Today-I-Learned-Cross-Encoder-3e335bb367d1814f9fcdf4b970dccea0) | 2026.09.23 | RAG, 리랭킹, CrossEncoder +1 | 완료 |
-| [하이브리드 검색](https://app.notion.com/p/Today-I-Learned-3e235bb367d181ac9226e845059a6f6d) | 2026.09.22 | RAG, NLP, 평가지표 +2 | 완료 |
 
-👉 전체 35건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-30 03:06 KST_
+👉 전체 36건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-09-30 14:36 KST_
 
 <!-- NOTION-TIL:END -->
 
