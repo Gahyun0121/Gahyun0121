@@ -1,9 +1,10 @@
 # TIL
 
-노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **37건** · 최근 동기화 2026-10-02 03:26 KST
+노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **38건** · 최근 동기화 2026-10-02 14:42 KST
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [Store/Mem0](https://app.notion.com/p/Today-I-Learned-Store-Mem0-3eb35bb367d18111b48dcafd27fc6370) | 2026.10.01 | LangGraph, 장기메모리, Mem0 | 완료 |
 | [HITL](https://app.notion.com/p/Today-I-Learned-HITL-3ea35bb367d1812fa065e11eae22fbc4) | 2026.09.30 | LangGraph, HITL, 체크포인터 | 완료 |
 | [LangGraph](https://app.notion.com/p/Today-I-Learned-LangGraph-3e935bb367d181749190d45efcd9c735) | 2026.09.29 | LangGraph, Agent, 하이브리드검색 | 완료 |
 | [VectorCypherRetriever](https://app.notion.com/p/Today-I-Learned-VectorCypherRetriever-3e835bb367d18189b7b8c2abf69938be) | 2026.09.28 | GraphRAG, 하이브리드검색, Text2Cypher | 완료 |
