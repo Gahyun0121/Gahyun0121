@@ -27,11 +27,11 @@
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [CRAG/Self-RAG](https://app.notion.com/p/Today-I-Learned-CRAG-Self-RAG-3ec35bb367d18162a0abe4cc375c9008) | 2026.10.02 | Agentic RAG, LangGraph, RAG +1 | 완료 |
 | [Store/Mem0](https://app.notion.com/p/Today-I-Learned-Store-Mem0-3eb35bb367d18111b48dcafd27fc6370) | 2026.10.01 | LangGraph, 장기메모리, Mem0 | 완료 |
 | [HITL](https://app.notion.com/p/Today-I-Learned-HITL-3ea35bb367d1812fa065e11eae22fbc4) | 2026.09.30 | LangGraph, HITL, 체크포인터 | 완료 |
-| [LangGraph](https://app.notion.com/p/Today-I-Learned-LangGraph-3e935bb367d181749190d45efcd9c735) | 2026.09.29 | LangGraph, Agent, 하이브리드검색 | 완료 |
 
-👉 전체 38건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-02 14:42 KST_
+👉 전체 39건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-03 02:53 KST_
 
 <!-- NOTION-TIL:END -->
 
