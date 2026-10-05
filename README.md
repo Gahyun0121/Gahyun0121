@@ -31,7 +31,7 @@
 | [Store/Mem0](https://app.notion.com/p/Today-I-Learned-Store-Mem0-3eb35bb367d18111b48dcafd27fc6370) | 2026.10.01 | LangGraph, 장기메모리, Mem0 | 완료 |
 | [HITL](https://app.notion.com/p/Today-I-Learned-HITL-3ea35bb367d1812fa065e11eae22fbc4) | 2026.09.30 | LangGraph, HITL, 체크포인터 | 완료 |
 
-👉 전체 39건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-05 01:52 KST_
+👉 전체 39건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-05 14:46 KST_
 
 <!-- NOTION-TIL:END -->
 
