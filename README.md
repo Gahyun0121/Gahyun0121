@@ -27,11 +27,11 @@
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [디버깅(Trajectory)](https://app.notion.com/p/Today-I-Learned-Trajectory-3f235bb367d181c0864de9579906f72a) | 2026.10.08 | 멀티에이전트, Langfuse, LangGraph +1 | 완료 |
 | [Supervisor/Handoff](https://app.notion.com/p/Today-I-Learned-Supervisor-Handoff-3f135bb367d181daa915d49239dd78f5) | 2026.10.07 | 멀티에이전트, LangGraph, Agent +2 | 완료 |
 | [Agentic RAG](https://app.notion.com/p/Today-I-Learned-Agentic-RAG-3f035bb367d18156a176cda06bef6f9a) | 2026.10.06 | Agentic RAG, RAG-Fusion, LangGraph +1 | 완료 |
-| [CRAG/Self-RAG](https://app.notion.com/p/Today-I-Learned-CRAG-Self-RAG-3ec35bb367d18162a0abe4cc375c9008) | 2026.10.02 | Agentic RAG, LangGraph, RAG +1 | 완료 |
 
-👉 전체 41건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-10 03:23 KST_
+👉 전체 42건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-10 14:56 KST_
 
 <!-- NOTION-TIL:END -->
 
