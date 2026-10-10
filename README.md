@@ -31,7 +31,7 @@
 | [Supervisor/Handoff](https://app.notion.com/p/Today-I-Learned-Supervisor-Handoff-3f135bb367d181daa915d49239dd78f5) | 2026.10.07 | 멀티에이전트, LangGraph, Agent +2 | 완료 |
 | [Agentic RAG](https://app.notion.com/p/Today-I-Learned-Agentic-RAG-3f035bb367d18156a176cda06bef6f9a) | 2026.10.06 | Agentic RAG, RAG-Fusion, LangGraph +1 | 완료 |
 
-👉 전체 42건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-10 14:56 KST_
+👉 전체 42건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-11 02:21 KST_
 
 <!-- NOTION-TIL:END -->
 
