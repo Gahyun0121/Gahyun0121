@@ -1,9 +1,10 @@
 # TIL
 
-노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **42건** · 최근 동기화 2026-10-13 06:17 KST
+노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **43건** · 최근 동기화 2026-10-13 15:49 KST
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [MS GraphRAG/LightRAG](https://app.notion.com/p/Today-I-Learned-MS-GraphRAG-LightRAG-3f635bb367d18199960bfe881396b1cf) | 2026.10.12 | GraphRAG, MS GraphRAG, LightRAG, 엔티티정규화 | 완료 |
 | [디버깅(Trajectory)](https://app.notion.com/p/Today-I-Learned-Trajectory-3f235bb367d181c0864de9579906f72a) | 2026.10.08 | 멀티에이전트, Langfuse, LangGraph, 에러처리 | 완료 |
 | [Supervisor/Handoff](https://app.notion.com/p/Today-I-Learned-Supervisor-Handoff-3f135bb367d181daa915d49239dd78f5) | 2026.10.07 | 멀티에이전트, LangGraph, Agent, Supervisor, Handoff | 완료 |
 | [Agentic RAG](https://app.notion.com/p/Today-I-Learned-Agentic-RAG-3f035bb367d18156a176cda06bef6f9a) | 2026.10.06 | Agentic RAG, RAG-Fusion, LangGraph, 평가지표 | 완료 |
