@@ -31,7 +31,7 @@
 | [디버깅(Trajectory)](https://app.notion.com/p/Today-I-Learned-Trajectory-3f235bb367d181c0864de9579906f72a) | 2026.10.08 | 멀티에이전트, Langfuse, LangGraph +1 | 완료 |
 | [Supervisor/Handoff](https://app.notion.com/p/Today-I-Learned-Supervisor-Handoff-3f135bb367d181daa915d49239dd78f5) | 2026.10.07 | 멀티에이전트, LangGraph, Agent +2 | 완료 |
 
-👉 전체 43건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-13 15:49 KST_
+👉 전체 43건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-14 04:19 KST_
 
 <!-- NOTION-TIL:END -->
 
