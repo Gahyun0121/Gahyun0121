@@ -27,11 +27,11 @@
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [LLM 평가/RAGAS](https://app.notion.com/p/Today-I-Learned-LLM-RAGAS-3f835bb367d1819aa13cd9a10e1ef461) | 2026.10.14 | RAGAS, RAG평가, 할루시네이션 +1 | 완료 |
 | [RAG Architecture](https://app.notion.com/p/Today-I-Learned-RAG-Architecture-3f735bb367d181e4b66bd1c8b9fa012b) | 2026.10.13 | RAG, 임베딩, 아키텍처선정 +1 | 완료 |
 | [MS GraphRAG/LightRAG](https://app.notion.com/p/Today-I-Learned-MS-GraphRAG-LightRAG-3f635bb367d18199960bfe881396b1cf) | 2026.10.12 | GraphRAG, MS GraphRAG, LightRAG +1 | 완료 |
-| [디버깅(Trajectory)](https://app.notion.com/p/Today-I-Learned-Trajectory-3f235bb367d181c0864de9579906f72a) | 2026.10.08 | 멀티에이전트, Langfuse, LangGraph +1 | 완료 |
 
-👉 전체 44건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-14 13:58 KST_
+👉 전체 45건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-15 02:15 KST_
 
 <!-- NOTION-TIL:END -->
 
