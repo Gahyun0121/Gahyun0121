@@ -1,9 +1,10 @@
 # TIL
 
-노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **45건** · 최근 동기화 2026-10-16 02:04 KST
+노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **46건** · 최근 동기화 2026-10-16 13:36 KST
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [Judge/DeepEval](https://app.notion.com/p/Today-I-Learned-Judge-DeepEval-3f935bb367d181ec916be981666d620a) | 2026.10.15 | LLM평가, LLM-as-Judge, DeepEval, 평가편향 | 완료 |
 | [LLM 평가/RAGAS](https://app.notion.com/p/Today-I-Learned-LLM-RAGAS-3f835bb367d1819aa13cd9a10e1ef461) | 2026.10.14 | RAGAS, RAG평가, 할루시네이션, pandas | 완료 |
 | [RAG Architecture](https://app.notion.com/p/Today-I-Learned-RAG-Architecture-3f735bb367d181e4b66bd1c8b9fa012b) | 2026.10.13 | RAG, 임베딩, 아키텍처선정, ADR | 완료 |
 | [MS GraphRAG/LightRAG](https://app.notion.com/p/Today-I-Learned-MS-GraphRAG-LightRAG-3f635bb367d18199960bfe881396b1cf) | 2026.10.12 | GraphRAG, MS GraphRAG, LightRAG, 엔티티정규화 | 완료 |
