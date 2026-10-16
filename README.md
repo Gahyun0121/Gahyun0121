@@ -31,7 +31,7 @@
 | [LLM 평가/RAGAS](https://app.notion.com/p/Today-I-Learned-LLM-RAGAS-3f835bb367d1819aa13cd9a10e1ef461) | 2026.10.14 | RAGAS, RAG평가, 할루시네이션 +1 | 완료 |
 | [RAG Architecture](https://app.notion.com/p/Today-I-Learned-RAG-Architecture-3f735bb367d181e4b66bd1c8b9fa012b) | 2026.10.13 | RAG, 임베딩, 아키텍처선정 +1 | 완료 |
 
-👉 전체 46건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-16 13:36 KST_
+👉 전체 46건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-17 01:42 KST_
 
 <!-- NOTION-TIL:END -->
 
