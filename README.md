@@ -31,7 +31,7 @@
 | [Judge/DeepEval](https://app.notion.com/p/Today-I-Learned-Judge-DeepEval-3f935bb367d181ec916be981666d620a) | 2026.10.15 | LLM평가, LLM-as-Judge, DeepEval +1 | 완료 |
 | [LLM 평가/RAGAS](https://app.notion.com/p/Today-I-Learned-LLM-RAGAS-3f835bb367d1819aa13cd9a10e1ef461) | 2026.10.14 | RAGAS, RAG평가, 할루시네이션 +1 | 완료 |
 
-👉 전체 47건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-19 00:54 KST_
+👉 전체 47건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-19 13:46 KST_
 
 <!-- NOTION-TIL:END -->
 
