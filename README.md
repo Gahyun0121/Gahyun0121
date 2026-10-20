@@ -31,7 +31,7 @@
 | [pytest/MLflow](https://app.notion.com/p/Today-I-Learned-pytest-MLflow-3fa35bb367d181ebbce0d6a64dacd9b9) | 2026.10.16 | 평가자동화, MLflow, pytest +1 | 완료 |
 | [Judge/DeepEval](https://app.notion.com/p/Today-I-Learned-Judge-DeepEval-3f935bb367d181ec916be981666d620a) | 2026.10.15 | LLM평가, LLM-as-Judge, DeepEval +1 | 완료 |
 
-👉 전체 48건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-20 13:55 KST_
+👉 전체 48건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-21 02:12 KST_
 
 <!-- NOTION-TIL:END -->
 
