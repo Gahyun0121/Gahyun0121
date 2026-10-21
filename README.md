@@ -31,7 +31,7 @@
 | [가드레일](https://app.notion.com/p/Today-I-Learned-3fd35bb367d1818ba7c5ff26c1c49c55) | 2026.10.19 | 가드레일, NeMo, 보안 +1 | 완료 |
 | [pytest/MLflow](https://app.notion.com/p/Today-I-Learned-pytest-MLflow-3fa35bb367d181ebbce0d6a64dacd9b9) | 2026.10.16 | 평가자동화, MLflow, pytest +1 | 완료 |
 
-👉 전체 49건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-21 13:54 KST_
+👉 전체 49건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-22 02:15 KST_
 
 <!-- NOTION-TIL:END -->
 
