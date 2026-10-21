@@ -1,9 +1,10 @@
 # TIL
 
-노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **48건** · 최근 동기화 2026-10-21 02:12 KST
+노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **49건** · 최근 동기화 2026-10-21 13:54 KST
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [Rails](https://app.notion.com/p/Today-I-Learned-Rails-3fe35bb367d181878c2cfdd31c368e1f) | 2026.10.20 | 가드레일, NeMo, 다층방어, 보안 | 완료 |
 | [가드레일](https://app.notion.com/p/Today-I-Learned-3fd35bb367d1818ba7c5ff26c1c49c55) | 2026.10.19 | 가드레일, NeMo, 보안, pandas | 완료 |
 | [pytest/MLflow](https://app.notion.com/p/Today-I-Learned-pytest-MLflow-3fa35bb367d181ebbce0d6a64dacd9b9) | 2026.10.16 | 평가자동화, MLflow, pytest, CI | 완료 |
 | [Judge/DeepEval](https://app.notion.com/p/Today-I-Learned-Judge-DeepEval-3f935bb367d181ec916be981666d620a) | 2026.10.15 | LLM평가, LLM-as-Judge, DeepEval, 평가편향 | 완료 |
