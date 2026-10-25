@@ -31,7 +31,7 @@
 | [가드레일 통합](https://app.notion.com/p/Today-I-Learned-3ff35bb367d181d7a9ffcd099e5fe967) | 2026.10.21 | 가드레일, NeMo, 프로젝트구조 +1 | 완료 |
 | [Rails](https://app.notion.com/p/Today-I-Learned-Rails-3fe35bb367d181878c2cfdd31c368e1f) | 2026.10.20 | 가드레일, NeMo, 다층방어 +1 | 완료 |
 
-👉 전체 51건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-25 13:46 KST_
+👉 전체 51건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-26 01:27 KST_
 
 <!-- NOTION-TIL:END -->
 
