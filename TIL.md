@@ -1,9 +1,10 @@
 # TIL
 
-노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **52건** · 최근 동기화 2026-10-26 13:52 KST
+노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **53건** · 최근 동기화 2026-10-27 03:41 KST
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [트랜스포머](https://app.notion.com/p/Today-I-Learned-40235bb367d181328580d2d6061a72a9) | 2026.10.26 | 딥러닝, 트랜스포머, 어텐션, PyTorch | 완료 |
 | [CNN/과적합](https://app.notion.com/p/Today-I-Learned-CNN-40135bb367d18140a32cfed1a0a45f80) | 2026.10.23 | 딥러닝, CNN, 과적합, PyTorch | 완료 |
 | [딥러닝 학습 원리](https://app.notion.com/p/Today-I-Learned-40035bb367d1816294f4d753a2f9545e) | 2026.10.22 | 용어, 딥러닝, 신경망, PyTorch, RunPod | 완료 |
 | [가드레일 통합](https://app.notion.com/p/Today-I-Learned-3ff35bb367d181d7a9ffcd099e5fe967) | 2026.10.21 | 가드레일, NeMo, 프로젝트구조, LangGraph | 완료 |
