@@ -31,7 +31,7 @@
 | [CNN/과적합](https://app.notion.com/p/Today-I-Learned-CNN-40135bb367d18140a32cfed1a0a45f80) | 2026.10.23 | 딥러닝, CNN, 과적합 +1 | 완료 |
 | [딥러닝 학습 원리](https://app.notion.com/p/Today-I-Learned-40035bb367d1816294f4d753a2f9545e) | 2026.10.22 | 용어, 딥러닝, 신경망 +2 | 완료 |
 
-👉 전체 53건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-27 03:41 KST_
+👉 전체 53건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-27 14:10 KST_
 
 <!-- NOTION-TIL:END -->
 
