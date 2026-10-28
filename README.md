@@ -31,7 +31,7 @@
 | [트랜스포머](https://app.notion.com/p/Today-I-Learned-40235bb367d181328580d2d6061a72a9) | 2026.10.26 | 딥러닝, 트랜스포머, 어텐션 +1 | 완료 |
 | [CNN/과적합](https://app.notion.com/p/Today-I-Learned-CNN-40135bb367d18140a32cfed1a0a45f80) | 2026.10.23 | 딥러닝, CNN, 과적합 +1 | 완료 |
 
-👉 전체 54건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-28 03:02 KST_
+👉 전체 54건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-28 14:46 KST_
 
 <!-- NOTION-TIL:END -->
 
