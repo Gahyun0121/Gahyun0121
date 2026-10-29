@@ -31,7 +31,7 @@
 | [Ollama/Qwen](https://app.notion.com/p/Today-I-Learned-Ollama-Qwen-40535bb367d1814da884e92f4568e699) | 2026.10.27 | LLM, 양자화, Ollama +1 | 완료 |
 | [트랜스포머](https://app.notion.com/p/Today-I-Learned-40235bb367d181328580d2d6061a72a9) | 2026.10.26 | 딥러닝, 트랜스포머, 어텐션 +1 | 완료 |
 
-👉 전체 55건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-29 03:21 KST_
+👉 전체 55건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-10-29 14:52 KST_
 
 <!-- NOTION-TIL:END -->
 
