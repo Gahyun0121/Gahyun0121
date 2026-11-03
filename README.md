@@ -27,11 +27,11 @@
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [DPO](https://app.notion.com/p/Today-I-Learned-DPO-40c35bb367d181bbad26e4ae64f7e431) | 2026.11.03 | 파인튜닝, DPO, 선호정렬 +1 | 완료 |
 | [QLoRA](https://app.notion.com/p/Today-I-Learned-QLoRA-40935bb367d18105b361d3d3ab8ce6a5) | 2026.11.02 | 파인튜닝, QLoRA, 양자화 +1 | 완료 |
 | [LoRA/DoRA](https://app.notion.com/p/Today-I-Learned-LoRA-DoRA-40835bb367d18195b5f8c9fcbdebba61) | 2026.10.30 | 파인튜닝, LoRA, PEFT +1 | 완료 |
-| [SFT](https://app.notion.com/p/Today-I-Learned-SFT-40735bb367d1814d967cf4dcf3577d61) | 2026.10.29 | 파인튜닝, SFT, 일반능력퇴행 +1 | 완료 |
 
-👉 전체 58건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-11-03 15:52 KST_
+👉 전체 59건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-11-04 04:30 KST_
 
 <!-- NOTION-TIL:END -->
 

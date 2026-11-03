@@ -1,9 +1,10 @@
 # TIL
 
-노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **58건** · 최근 동기화 2026-11-03 15:52 KST
+노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **59건** · 최근 동기화 2026-11-04 04:30 KST
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [DPO](https://app.notion.com/p/Today-I-Learned-DPO-40c35bb367d181bbad26e4ae64f7e431) | 2026.11.03 | 파인튜닝, DPO, 선호정렬, LLM위키 | 완료 |
 | [QLoRA](https://app.notion.com/p/Today-I-Learned-QLoRA-40935bb367d18105b361d3d3ab8ce6a5) | 2026.11.02 | 파인튜닝, QLoRA, 양자화, GPU최적화 | 완료 |
 | [LoRA/DoRA](https://app.notion.com/p/Today-I-Learned-LoRA-DoRA-40835bb367d18195b5f8c9fcbdebba61) | 2026.10.30 | 파인튜닝, LoRA, PEFT, DoRA | 완료 |
 | [SFT](https://app.notion.com/p/Today-I-Learned-SFT-40735bb367d1814d967cf4dcf3577d61) | 2026.10.29 | 파인튜닝, SFT, 일반능력퇴행, MLflow | 완료 |
