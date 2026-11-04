@@ -31,7 +31,7 @@
 | [QLoRA](https://app.notion.com/p/Today-I-Learned-QLoRA-40935bb367d18105b361d3d3ab8ce6a5) | 2026.11.02 | 파인튜닝, QLoRA, 양자화 +1 | 완료 |
 | [LoRA/DoRA](https://app.notion.com/p/Today-I-Learned-LoRA-DoRA-40835bb367d18195b5f8c9fcbdebba61) | 2026.10.30 | 파인튜닝, LoRA, PEFT +1 | 완료 |
 
-👉 전체 59건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-11-04 04:30 KST_
+👉 전체 59건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-11-04 15:30 KST_
 
 <!-- NOTION-TIL:END -->
 
