@@ -31,7 +31,7 @@
 | [MNR/HardNegative](https://app.notion.com/p/Today-I-Learned-MNR-HardNegative-40e35bb367d18171ba90d3f6a0010c72) | 2026.11.04 | 임베딩파인튜닝, 대조학습, MNR +1 | 완료 |
 | [DPO](https://app.notion.com/p/Today-I-Learned-DPO-40c35bb367d181bbad26e4ae64f7e431) | 2026.11.03 | 파인튜닝, DPO, 선호정렬 +1 | 완료 |
 
-👉 전체 61건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-11-06 04:59 KST_
+👉 전체 61건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-11-06 15:52 KST_
 
 <!-- NOTION-TIL:END -->
 
