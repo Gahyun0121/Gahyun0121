@@ -1,9 +1,10 @@
 # TIL
 
-노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **62건** · 최근 동기화 2026-11-09 15:40 KST
+노션 TIL 데이터베이스에서 자동 생성됩니다. 총 **63건** · 최근 동기화 2026-11-10 07:25 KST
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [FastAPI](https://app.notion.com/p/Today-I-Learned-FastAPI-41235bb367d1810d97fef020f311eb62) | 2026.11.09 | 백엔드, FastAPI, API인증, SSE | 완료 |
 | [벤치마킹](https://app.notion.com/p/Today-I-Learned-40f35bb367d181fdb0fbf3c2c6349b7e) | 2026.11.06 | LLM서빙, vLLM, 추론최적화, 벤치마킹 | 완료 |
 | [vLLM](https://app.notion.com/p/Today-I-Learned-vLLM-40d35bb367d1814e8407d08f40cb54ef) | 2026.11.05 | LLM서빙, vLLM, KV캐시, RunPod | 완료 |
 | [MNR/HardNegative](https://app.notion.com/p/Today-I-Learned-MNR-HardNegative-40e35bb367d18171ba90d3f6a0010c72) | 2026.11.04 | 임베딩파인튜닝, 대조학습, MNR, HardNegative | 완료 |
