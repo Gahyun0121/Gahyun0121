@@ -31,7 +31,7 @@
 | [벤치마킹](https://app.notion.com/p/Today-I-Learned-40f35bb367d181fdb0fbf3c2c6349b7e) | 2026.11.06 | LLM서빙, vLLM, 추론최적화 +1 | 완료 |
 | [vLLM](https://app.notion.com/p/Today-I-Learned-vLLM-40d35bb367d1814e8407d08f40cb54ef) | 2026.11.05 | LLM서빙, vLLM, KV캐시 +1 | 완료 |
 
-👉 전체 63건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-11-10 07:25 KST_
+👉 전체 63건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-11-10 16:23 KST_
 
 <!-- NOTION-TIL:END -->
 
