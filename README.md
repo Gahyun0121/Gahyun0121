@@ -27,11 +27,11 @@
 
 | 이름 | 날짜 | 키워드 | 상태 |
 |---|---|---|---|
+| [메트릭 모니터링](https://app.notion.com/p/Today-I-Learned-41435bb367d181539b35fc34fcf03fc2) | 2026.11.11 | 모니터링, SLO, Langfuse +1 | 완료 |
 | [Docker](https://app.notion.com/p/Today-I-Learned-Docker-41335bb367d18169a590d294eba759ff) | 2026.11.10 | Docker, 배포, CICD +1 | 완료 |
 | [FastAPI](https://app.notion.com/p/Today-I-Learned-FastAPI-41235bb367d1810d97fef020f311eb62) | 2026.11.09 | 백엔드, FastAPI, API인증 +1 | 완료 |
-| [벤치마킹](https://app.notion.com/p/Today-I-Learned-40f35bb367d181fdb0fbf3c2c6349b7e) | 2026.11.06 | LLM서빙, vLLM, 추론최적화 +1 | 완료 |
 
-👉 전체 64건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-11-11 15:30 KST_
+👉 전체 65건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-11-12 04:38 KST_
 
 <!-- NOTION-TIL:END -->
 
