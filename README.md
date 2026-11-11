@@ -31,7 +31,7 @@
 | [FastAPI](https://app.notion.com/p/Today-I-Learned-FastAPI-41235bb367d1810d97fef020f311eb62) | 2026.11.09 | 백엔드, FastAPI, API인증 +1 | 완료 |
 | [벤치마킹](https://app.notion.com/p/Today-I-Learned-40f35bb367d181fdb0fbf3c2c6349b7e) | 2026.11.06 | LLM서빙, vLLM, 추론최적화 +1 | 완료 |
 
-👉 전체 64건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-11-11 04:46 KST_
+👉 전체 64건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-11-11 15:30 KST_
 
 <!-- NOTION-TIL:END -->
 
