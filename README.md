@@ -31,7 +31,7 @@
 | [Docker](https://app.notion.com/p/Today-I-Learned-Docker-41335bb367d18169a590d294eba759ff) | 2026.11.10 | Docker, 배포, CICD +1 | 완료 |
 | [FastAPI](https://app.notion.com/p/Today-I-Learned-FastAPI-41235bb367d1810d97fef020f311eb62) | 2026.11.09 | 백엔드, FastAPI, API인증 +1 | 완료 |
 
-👉 전체 65건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-11-14 04:46 KST_
+👉 전체 65건 보기 → **[TIL.md](TIL.md)**  ·  _마지막 동기화 2026-11-14 15:29 KST_
 
 <!-- NOTION-TIL:END -->
 
