@@ -12,9 +12,9 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[SK네트웍스 Family 엔코아AI캠퍼스] AI 머신러닝 캠프 1기_11월 2주차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-1%EA%B8%B011%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-r5efk8vt)
 - [[정처기 에이전트 - 2] 채점 기준을 바꾸고 HITL 활용하기](https://velog.io/@gahyune/%EC%A0%95%EC%B2%98%EA%B8%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-2-%EC%B1%84%EC%A0%90-%EA%B8%B0%EC%A4%80%EC%9D%84-%EB%B0%94%EA%BE%B8%EA%B3%A0-HITL-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [[SK네트웍스 Family 엔코아AI캠퍼스] AI 머신러닝 캠프 1기_11월 1주차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-1%EA%B8%B011%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
-- [SK네트웍스 Family AI 캠프 MLE1기 4개월차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-AI-%EC%BA%A0%ED%94%84-MLE1%EA%B8%B0-4%EA%B0%9C%EC%9B%94%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [velog.io/@가현](https://velog.io/@gahyune/posts)
